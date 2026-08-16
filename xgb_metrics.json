@@ -1,0 +1,11 @@
+{
+  "n_train": 43004,
+  "n_val": 2380,
+  "n_test": 1215,
+  "best_iteration": 99,
+  "RMSE": 4.5233,
+  "MAE": 2.9636,
+  "R2": 0.755,
+  "MAPE_pct": 87.8,
+  "WMAPE_pct": 33.13
+}
